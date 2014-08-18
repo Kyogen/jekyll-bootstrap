@@ -14,8 +14,8 @@ author :
   name : Kyogen
   email : mail@email.test
   github : Kyogen
-  twitter : username
-  feedburner : feedname
+  twitter : 
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
