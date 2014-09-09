@@ -56,6 +56,7 @@ content created by `jekyll new`. Start your blogging by editing the file in
 `_posts`, then customize 'index.html', and so on.
 
 There are many advantages with this approach:
+
 * you can put the folder under version control (i.e. git)
 * you can put normal HTML files into the folder and let them be parsed by
   Jekyll too (e.g. the index.html file in the test folder)
