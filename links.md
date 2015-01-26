@@ -5,12 +5,15 @@ header: "Interesting Links"
 group: navigation
 ---
 
-##Web links
+## Web links
 
-* http://overthewire.org/wargames/
-* https://www.schneier.com/
-* http://www.scriptjunkie.us/
+### Wargames
+* [Overthewire](http://overthewire.org/wargames/)
 
-##Onionland links
+### Blogs
+* [Schneier on Security](https://www.schneier.com/)
+* [Scriptjunkie](http://www.scriptjunkie.us/)
 
-* this site in onionland: yxecp2632dx7yxj4.onion
+## Onionland links
+
+* [this site in onionland](yxecp2632dx7yxj4.onion)
