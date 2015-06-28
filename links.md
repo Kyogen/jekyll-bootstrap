@@ -9,10 +9,14 @@ group: navigation
 
 ### Wargames
 * [http://overthewire.org/wargames/](http://overthewire.org/wargames/)
+* [https://microcorruption.com/](https://microcorruption.com/)
 
 ### Blogs
 * [https://www.schneier.com/](https://www.schneier.com/)
 * [http://www.scriptjunkie.us/](http://www.scriptjunkie.us/)
+
+### Programming etc.
+* [http://hackershelf.com/](http://hackershelf.com/)
 
 ## Onionland links
 

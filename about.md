@@ -22,4 +22,8 @@ Mail: kyogen [at] twtriller.net
 
 You like this site? Consider donating some Bitcoin: 1KW9puE4sVN5UYA3Tuhp79KehAWzpCTveU
 
+Or use this [referral link with Vultr][refer], if you want your own VPS for
+blogging (or anything else).
+
 [arch]:https://www.archlinux.org/
+[refer]:http://www.vultr.com/?ref=6820050
